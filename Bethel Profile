@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bethel Ayele | Data Scientist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 20px 0;
+            font-size: 24px;
+        }
+        nav a {
+            margin: 0 15px;
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            margin-top: 20px;
+            background: #2c3e50;
+            color: white;
+            padding: 10px 0;
+        }
+        img {
+            max-width: 200px;
+            border-radius: 50%;
+            margin: 10px auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bethel Ayele</h1>
+        <p>Data Scientist | Innovator | Problem Solver</p>
+        <nav>
+            <a href="#bio">Bio</a>
+            <a href="#portfolio">Portfolio</a>
+            <a href="#elevator-pitch">Elevator Pitch</a>
+        </nav>
+    </header>
+    
+    <div class="container" id="bio">
+        <h2>Bio</h2>
+        <img src="profile.jpg" alt="Bethel Ayele">
+        <p>Bethel Ayele is a passionate Data Scientist with a strong background in aviation quality management. She thrives on solving complex problems, leveraging data-driven insights to drive efficiency and innovation. With a keen eye for detail and a dedication to continuous learning, Bethel is committed to making a meaningful impact in her industry.</p>
+    </div>
+    
+    <div class="container" id="portfolio">
+        <h2>Portfolio</h2>
+        <p><a href="https://youtube.com/team_project_video" target="_blank">Team Phase 2 Project Video</a></p>
+        <p><a href="https://drive.google.com/team_project_slide_deck.pdf" target="_blank">Project Slide Deck (PDF)</a></p>
+    </div>
+    
+    <div class="container" id="elevator-pitch">
+        <h2>Elevator Pitch</h2>
+        <p>Coming soon...</p>
+    </div>
+    
+    <footer>
+        <p>&copy; 2025 Bethel Ayele. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
